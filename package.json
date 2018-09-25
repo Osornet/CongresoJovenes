@@ -1,0 +1,27 @@
+{
+  "name": "congresojovenes",
+  "version": "0.1.0",
+  "description": "Página web del congreso de Jovenes de la iglesia Idiospen CECI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osornet/CongresoJovenes.git"
+  },
+  "keywords": [
+    "Congreso",
+    "Jovenes",
+    "idiospen"
+  ],
+  "author": "osornet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Osornet/CongresoJovenes/issues"
+  },
+  "homepage": "https://github.com/Osornet/CongresoJovenes#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}
